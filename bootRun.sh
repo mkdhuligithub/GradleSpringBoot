@@ -20,4 +20,8 @@ nohup gradle bootRun >> /tmp/bootRun.log 2>&1 &
 echo "Sample line add 11/7/2022"
 
 echo "line by rakesh"
+
+echo "hello friends"
+
 echo "line by sai charan"
+
