@@ -16,3 +16,5 @@ rm -rf .gradle
 echo "Running gradle script to build the project..."
 cd /var/lib/jenkins/workspace/GradleSpringBoot
 nohup gradle bootRun >> /tmp/bootRun.log 2>&1 &
+
+echo "Sample line add 11/7/2022"
